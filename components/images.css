@@ -32,17 +32,16 @@
 }
 
 .bgimg-2 {
-  background-image: url("https://github.com/ThiefinaboX/beatemhub/blob/main/docs/hux-indie.png?raw=true");
-}
-
-.bgimg-4 {
-  background-image: url("https://github.com/ThiefinaboX/beatemhub/blob/main/docs/hux-retro.png?raw=true");
-}
-
-.bgimg-5 {
   background-image: url("https://github.com/ThiefinaboX/beatemhub/blob/main/docs/hux-vr.jpg?raw=true");
 }
 
+.bgimg-4 {
+  background-image: url("https://github.com/ThiefinaboX/beatemhub/blob/main/docs/hux-indie.png?raw=true");
+}
+
+.bgimg-5 {
+  background-image: url("https://github.com/ThiefinaboX/beatemhub/blob/main/docs/Festivals.png?raw=true");
+}
 .bgimg-6 {
   background-image: url("https://github.com/ThiefinaboX/beatemhub/blob/main/docs/MTG.PNG?raw=true");
 }
@@ -54,5 +53,5 @@
   background-image: url("https://github.com/ThiefinaboX/beatemhub/blob/main/docs/high%20score.png?raw=true");
 }
 .bgimg-10 {
-  background-image: url("https://github.com/ThiefinaboX/beatemhub/blob/main/docs/Festivals.png?raw=true");
+  background-image: url("https://github.com/ThiefinaboX/beatemhub/blob/main/docs/hux-retro.png?raw=true");
 }
