@@ -69,7 +69,6 @@ body {
 }
 
 .text-wrapper {
-  display: block;
   box-sizing: border-box;
   /* background-color: #000000; */
   text-align: center;
@@ -78,6 +77,8 @@ body {
   padding-right: 200px;
   margin-top: 40px;
   margin-bottom: 40px;
+  width: 100%;
+  display: block;
 }
 
 a{

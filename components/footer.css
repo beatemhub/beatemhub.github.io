@@ -16,13 +16,24 @@
   font-weight: lighter;
 }
 
-.footer {
+.center-footer {
+  background-color: black;
+}
+
+.center-footer p {
   background: rgba(45, 44, 44, 0);
   color: #0eebdc;
   font-style: italic;
   height: 40px;
-  font-size: 20px;
+  font-size: 40px;
 }
-.center {
+
+p2 {
+  color: #0eebdc;
+  font-style: italic;
+  height: 60px;
+  font-size: 15px;
+}
+.center-footer {
   text-align: center;
 }

@@ -4,6 +4,7 @@
 	margin: 50px auto;
 	list-style: none;
 	text-align: center;
+  width: 70%;
 }
 .tilesWrap li {
 	display: inline-block;
@@ -14,30 +15,30 @@
 	position: relative;
 	vertical-align: top;
 	margin: 10px;
-	font-family: 'helvetica', san-serif;
 	min-height: 25vh;
-	background: #778184;
+  max-height: 35vh;
+	background: #2C1546;
 	border: 1px solid #252727;
-	text-align: left;
+	text-align: center;
 }
 .tilesWrap li h2 {
-	font-size: 114px;
-	margin: 0;
-	position: absolute;
-	opacity: 0.2;
-	top: 50px;
-	right: 10px;
-	transition: all 0.3s ease-in-out;
+	    /* font-size: 114px; */
+      margin: 0;
+      position: absolute;
+      opacity: 0.2;
+      top: -20px;
+      /* right: 10px; */
+      transition: all 0.3s ease-in-out;
 }
 .tilesWrap li h3 {
 	font-size: 20px;
-	color: #000000;
+	color: #e678f4;
 	margin-bottom: 5px;
 }
 .tilesWrap li p {
 	font-size: 16px;
 	line-height: 18px;
-	color: #000000;
+	color: white;
 	margin-top: 5px;
 }
 .tilesWrap li button {
@@ -97,7 +98,6 @@
 .tilesWrap li:after {
 	content: '';
 	position: absolute;
-
 	width: 40%;
 	height: 100%;
 	left: 0;
@@ -106,23 +106,23 @@
 }
 .tilesWrap li:nth-child(1):before {
 	background: #C9FFBF;
-  background: -webkit-linear-gradient(to right, #0eebdc, #D087DA);
-  background: linear-gradient(to right, #0eebdc, #D087DA);
+  background: -webkit-linear-gradient(to right, #0eebdc, #e678f4);
+  background: linear-gradient(to right, #0eebdc, #e678f4);
 }
 .tilesWrap li:nth-child(2):before {
 	background: #f2709c;
-  background: -webkit-linear-gradient(to right, #0eebdc, #D087DA);
-  background: linear-gradient(to right, #0eebdc, #D087DA);
+  background: -webkit-linear-gradient(to right, #0eebdc, #e678f4);
+  background: linear-gradient(to right, #0eebdc, #e678f4);
 }
 .tilesWrap li:nth-child(3):before {
 	background: #c21500;
-  background: -webkit-linear-gradient(to right, #0eebdc, #D087DA);
-  background: linear-gradient(to right, #0eebdc, #D087DA);
+  background: -webkit-linear-gradient(to right, #0eebdc, #e678f4);
+  background: linear-gradient(to right, #0eebdc, #e678f4);
 }
 .tilesWrap li:nth-child(4):before {
 	background: #FC354C;
-  background: -webkit-linear-gradient(to right, #0eebdc, #D087DA);
-  background: linear-gradient(to right, #0eebdc, #D087DA);
+  background: -webkit-linear-gradient(to right, #0eebdc, #e678f4);
+  background: linear-gradient(to right, #0eebdc, #e678f4);
 }
 
 
