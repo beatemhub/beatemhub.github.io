@@ -57,3 +57,4 @@ function easeInOutCubic(t, b, c, d) {
 AOS.init({
   duration: 1200,
 })
+
