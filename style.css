@@ -231,6 +231,11 @@ p {
     .caption {
       font-size: 40px;
     }
+
+    #about-img {
+      width: 700px;
+    }
+
 }
 
     /* Hamburger Bar Media Query */
@@ -330,6 +335,10 @@ p {
     width: 100%;
     background-color: black;
   }
+
+  #about-img {
+    width: 500px;
+  }
 }
 
  /* Custom, iPhone Retina */
@@ -385,5 +394,9 @@ p {
     height: 380px;
     background-attachment: scroll !important;
     background-size: cover;
+}
+
+#about-img {
+  width: 300px;
 }
 }
