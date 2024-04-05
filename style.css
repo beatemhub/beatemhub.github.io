@@ -508,6 +508,10 @@ p2 {
     padding: 10px;
   }
 
+  .video-wrapper {
+    padding: 0px;
+  }
+
   #vid-wrapper {
     display: none;
   }
